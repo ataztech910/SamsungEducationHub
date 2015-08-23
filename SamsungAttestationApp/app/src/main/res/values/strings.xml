@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SamsungAttestationApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_item_delete">удалить</string>
+    <string name="menu_item_edit">изменить</string>
+</resources>
